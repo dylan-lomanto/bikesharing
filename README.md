@@ -43,3 +43,6 @@ The majority of the weekday rides appear to be short portions of commutes (likel
 ##### Additional Visualizations
 1. Total Trips by Gender: In order to further explore the anomaly of the total number of rides by unkown gender with a birth year of 1969 the total numnber of trips by each gender should be displayed on a bar graph. 
 2. Starting Location by Birthyear: This visualization should examine if their is any relationship between age of rider and starting location. Since the total ridership heavily trends towards younger riders it may be more cost effective to remove bikes from areas that are only frequented by older riders.
+
+### CitiBike Challenge Link
+[https://public.tableau.com/app/profile/dylan.lomanto/viz/CitiBikeChallenge_16322632192870/DesMoinesBikeShareStory](qwq)
