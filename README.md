@@ -20,3 +20,5 @@ The frequency of morning trips is relatively consistent for Monday through Frida
 ![Trips by Gender (weekday per hour)](https://user-images.githubusercontent.com/86164867/134574581-e7b57a4c-d1ec-44b4-b87d-9fd31f821024.PNG)
 The male and female genders have consistent patterns of frequency.  The unkown gender, however, has more frequent trips on the weekends then on weekdays.
 
+##### User Trips by Gender by Weekday
+![User Trips by Gender by Weekday](https://user-images.githubusercontent.com/86164867/134575400-20df5b1b-3eab-477f-8f1a-5c8ac16bb312.PNG)
