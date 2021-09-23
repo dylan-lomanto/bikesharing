@@ -38,6 +38,7 @@ The male and femal genders observe similar patterns, with no peak in 1969.  Male
 
 ### Summary
 
+The majority of the weekday rides appear to be short portions of commutes (likely to or from subway stations or other public transit hubs). Depending upon the monetization model (upfront cost per ride or per minute/mile) it may not be feasible to replicate this same program in a smaller city like Des Moines. CitiBike relies heavily upon short rides that may not be needed as frequently elsewhere. With 81% of the total rides being made by subscribers it can be inferred that the vast majority of rides are part of a work commute.
 
 ##### Additional Visualizations
 1. Total Trips by Gender: In order to further explore the anomaly of the total number of rides by unkown gender with a birth year of 1969 the total numnber of trips by each gender should be displayed on a bar graph. 
