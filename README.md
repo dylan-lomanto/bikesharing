@@ -22,3 +22,18 @@ The male and female genders have consistent patterns of frequency.  The unkown g
 
 ##### User Trips by Gender by Weekday
 ![User Trips by Gender by Weekday](https://user-images.githubusercontent.com/86164867/134575400-20df5b1b-3eab-477f-8f1a-5c8ac16bb312.PNG)
+The male and female genders follow similar day of the week patterns. The majority of their trips are by subscribers. The unknown gender has more frequent trips on weekends than weekdays and has more customer trips than suscriber trips.
+
+##### Total Trips by Usertype
+![Total trips by Usertype](https://user-images.githubusercontent.com/86164867/134576466-1c02aba1-9cf5-4e1d-8c4a-04290fed03e3.PNG)
+Roughly 81% of total trips are taken by subscribers while the remiaining 19% are taken by customers.
+
+##### User Trips by Birth Year
+![User Trips by Birth Year](https://user-images.githubusercontent.com/86164867/134576944-b95d8dca-38d5-4e6f-ad28-adb1eca6e4b0.PNG)
+Total subscriber rides peak for the birth year 1990, with a significant rise for 1969. Total customer rides peaks substantially for the birth year 1969, with significantly smaller spikes for 1989 and 1995. The peak in 1969 is so significant that it is likely a data error for both types of customers
+
+##### User Trips by Gender by Birth Year
+![User Trips by Gender by Birth Year](https://user-images.githubusercontent.com/86164867/134577494-0862e7df-35d2-4bfa-9268-85ccfc85b9b4.PNG)
+The male and femal genders observe similar patterns, with no peak in 1969.  Male ridership peaks for birth year 1990 while femal ridership peaks between birth years 1989 and 1992.  The unknown gender has a massive peak of ridership for birthyear 1969. This is almost certainly a data error as 9% of total rides are displayed as having been taken by a person with an unknown gender born in 1969.
+
+### Summary
