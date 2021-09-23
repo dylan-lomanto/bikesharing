@@ -7,3 +7,10 @@ This project aims to determine whether or not a bike sharingn program is viable 
 ##### Checkout Times for Users
 ![Checkout Times for Users](https://user-images.githubusercontent.com/86164867/134569647-6b2b12e4-7363-4be5-924f-399c6a3fcc1b.PNG)
 The peak trip duration for all users is 5 minutes. The vast majority of rides are under 50 minutes, and are heavily clustered between 1 and 23 minutes.  This shows that the majority of users use the Citi Bikes for short trips, not full commutes.
+
+##### Checkout Times by Gender
+![Checkout Times by Gender](https://user-images.githubusercontent.com/86164867/134570487-a31ee32c-694e-42d9-8549-c5cc4af23f1d.PNG)
+The male and female genders have very similar patterns, with a sharp peak at 5 minutes for men and 6 minutes for women.  The unknown gender observes a slightly different pattern, with an elongated peak of similar numbers of rides for trip durations of 8 through 25 minutes.
+
+##### Trips by Weekday for Each Hour
+![Trips by Weekday for Each Hour](https://user-images.githubusercontent.com/86164867/134572140-bed30088-8950-4070-aad0-d23f0ab83bdc.PNG)
