@@ -37,3 +37,8 @@ Total subscriber rides peak for the birth year 1990, with a significant rise for
 The male and femal genders observe similar patterns, with no peak in 1969.  Male ridership peaks for birth year 1990 while femal ridership peaks between birth years 1989 and 1992.  The unknown gender has a massive peak of ridership for birthyear 1969. This is almost certainly a data error as 9% of total rides are displayed as having been taken by a person with an unknown gender born in 1969.
 
 ### Summary
+
+
+##### Additional Visualizations
+1. Total Trips by Gender: In order to further explore the anomaly of the total number of rides by unkown gender with a birth year of 1969 the total numnber of trips by each gender should be displayed on a bar graph. 
+2. Starting Location by Birthyear: This visualization should examine if their is any relationship between age of rider and starting location. Since the total ridership heavily trends towards younger riders it may be more cost effective to remove bikes from areas that are only frequented by older riders.
