@@ -45,4 +45,4 @@ The majority of the weekday rides appear to be short portions of commutes (likel
 2. Starting Location by Birthyear: This visualization should examine if their is any relationship between age of rider and starting location. Since the total ridership heavily trends towards younger riders it may be more cost effective to remove bikes from areas that are only frequented by older riders.
 
 ### CitiBike Challenge Link
-[https://public.tableau.com/app/profile/dylan.lomanto/viz/CitiBikeChallenge_16322632192870/DesMoinesBikeShareStory](qwq)
+[https://public.tableau.com/app/profile/dylan.lomanto/viz/CitiBikeChallenge_16322632192870/DesMoinesBikeShareStory](https://public.tableau.com/app/profile/dylan.lomanto/viz/CitiBikeChallenge_16322632192870/DesMoinesBikeShareStory)
